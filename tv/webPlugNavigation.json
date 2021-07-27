@@ -981,6 +981,134 @@
       }
     },
     {
+  "name": "达达兔(规则)",
+  "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+  "type": "webPlug",
+  "subTitle": "",
+  "subMobileTitle": "",
+  "ads": "",
+  "webUrl": "https://dadatu5.cc/",
+  "webOpen": false,
+  "click": true,
+  "webPlus": {
+    "search_url": "https://dadatu5.cc/search.php?searchword={kw}",
+    "nav_url": "https://www.9ehao.com/vod/navCate-navPage",
+    "cate_url": "",
+    "web_name": "达达兔",
+    "kw": "wd",
+    "params": [
+      {
+        "key": "key",
+        "value": "value"
+      }
+    ],
+    "navHtml": {
+      "name": [
+        "动作电影",
+        "爱情电影",
+        "科幻电影",
+        "恐怖电影",
+        "喜剧电影",
+        "国产电视剧",
+        "香港电视剧",
+        "美国电视剧",
+        "韩国电视剧"
+      ],
+      "cate": [
+        "5",
+        "6",
+        "7",
+        "8",
+        "10",
+        "13",
+        "14",
+        "15",
+        "16"
+      ],
+      "page": "2"
+    },
+    "cateHtml": {},
+    "html": {
+      "episodes": {
+        "hasUrlPrefix": false,
+        "isListItemAttr": true,
+        "isReg": false,
+        "isRegNeedDecoder": false,
+        "listCss": "ul > li",
+        "isMultiList": false,
+        "listCssMulti": "",
+        "listItemAttr": "href",
+        "listItemCss": "a",
+        "listItemIndex": 0,
+        "mainCss": "div.tab-pane.fade.in.clearfix",
+        "mainIndex": 0,
+        "regIndexList": [
+          0
+        ],
+        "regItemIndex": 0,
+        "regItemStr": "",
+        "regSplitList": [
+          ""
+        ],
+        "regStrList": [
+          ""
+        ]
+      },
+      "nav": {
+        "isKWInUrl": false,
+        "isWebPlay": false,
+        "descAttr": "",
+        "descCss": "span.pic-text.text-right",
+        "descIndex": 0,
+        "hasImgUrlPrefix": true,
+        "hasUrlPrefix": false,
+        "imgAttr": "data-original",
+        "imgCss": "a",
+        "imgIndex": 0,
+        "isDescAttr": false,
+        "isImgAttr": true,
+        "isNameAttr": true,
+        "isUrlAttr": true,
+        "mainCss": "ul.myui-vodlist.clearfix",
+        "mainListIndex": 0,
+        "nameAttr": "title",
+        "nameCss": "a",
+        "nameIndex": 0,
+        "searchListCss": "li",
+        "urlAttr": "href",
+        "urlCss": "a",
+        "urlIndex": 0
+      },
+      "search": {
+        "isKWInUrl": false,
+        "isWebPlay": false,
+        "descAttr": "",
+        "descCss": "span.pic-text.text-right",
+        "descIndex": 0,
+        "hasImgUrlPrefix": true,
+        "hasUrlPrefix": false,
+        "imgAttr": "data-original",
+        "imgCss": "a",
+        "imgIndex": 0,
+        "isDescAttr": false,
+        "isImgAttr": true,
+        "isNameAttr": true,
+        "isUrlAttr": true,
+        "mainCss": "ul#searchList",
+        "mainListIndex": 0,
+        "nameAttr": "title",
+        "nameCss": "a",
+        "nameIndex": 0,
+        "searchListCss": "li",
+        "urlAttr": "href",
+        "urlCss": "a",
+        "urlIndex": 0
+      },
+      "video": {}
+    }
+  }
+},
+    {
       "name": "百度搜索(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "keyDownPlay": false,
@@ -1108,6 +1236,22 @@
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "onenews",
       "webUrl": "http://www.tvyb02.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "达达兔(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "onenews",
+      "webUrl": "http://www.dadatu5.cc/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "潦草网(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "onenews",
+      "webUrl": "http://m.liaocao.com/",
       "webOpen": true,
       "click": true
     },
