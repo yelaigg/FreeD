@@ -991,8 +991,8 @@
   "webOpen": false,
   "click": true,
   "webPlus": {
-    "search_url": "https://dadatu5.cc/search.php?searchword={kw}",
-    "nav_url": "https://www.9ehao.com/vod/navCate-navPage",
+    "search_url": "https://www.dadatu5.cc/search.php?searchword={kw}",
+    "nav_url": "https://www.dadatu5.cc/vod/navCate-navPage",
     "cate_url": "",
     "web_name": "达达兔",
     "kw": "wd",
@@ -1025,7 +1025,7 @@
         "15",
         "16"
       ],
-      "page": "2"
+      "page": "1"
     },
     "cateHtml": {},
     "html": {
@@ -1255,6 +1255,46 @@
       "webOpen": true,
       "click": true
     },
+   {
+      "name": "无名网(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "onenews",
+      "webUrl": "https://wm.owcac.com/",
+      "webOpen": true,
+      "click": true
+    },
+       {
+      "name": "在线H影院1(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "onenews",
+      "webUrl": "https://cc.7r8tv.com/",
+      "webOpen": true,
+      "click": true
+    },
+         {
+      "name": "在线H影院2(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "onenews",
+      "webUrl": "https://cc.tbxtv.com/",
+      "webOpen": true,
+      "click": true
+    },  
+          {
+      "name": "在线H影院3(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "onenews",
+      "webUrl": "https://cc.on6tv.com/",
+      "webOpen": true,
+      "click": true
+    },    
+          {
+      "name": "马勒影院(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "onenews",
+      "webUrl": "https://www.male11.com/",
+      "webOpen": true,
+      "click": true
+    },        
     {
       "name": "一只鱼(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
