@@ -992,7 +992,7 @@
   "click": true,
   "webPlus": {
     "search_url": "https://www.dadatu5.cc/search.php?searchword={kw}",
-    "nav_url": "https://www.dadatu5.cc/vod/navCate-navPage",
+    "nav_url": "https://www.dadatu5.cc/vod/navCate-navPage.html",
     "cate_url": "",
     "web_name": "达达兔",
     "kw": "wd",
@@ -1120,7 +1120,7 @@
   "click": true,
   "webPlus": {
     "search_url": "http://www.male47.live/index.php/vod/search.html?wd={kw}&submit=",
-    "nav_url": "http://www.male47.live/index.php/vod/type/id/navCate/page/navPage",
+    "nav_url": "http://www.male47.live/index.php/vod/type/id/navCate/page/navPage.html",
     "cate_url": "",
     "web_name": "马勒影院",
     "kw": "wd",
