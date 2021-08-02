@@ -1225,7 +1225,146 @@
       "video": {}
     }
   }
-},        
+},  
+    {
+  "name": "潦草网(规则)",
+  "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+  "type": "webPlug",
+  "subTitle": "",
+  "subMobileTitle": "",
+  "ads": "",
+  "webUrl": "http://m.liaocao88.com/",
+  "webOpen": false,
+  "click": true,
+  "webPlus": {
+    "search_url": "http://m.liaocao88.com/search.php",
+    "nav_url": "http://m.liaocao88.com/movie/?a1eb7f73f903ccb0bnavCate.shtml&pages=navPage",
+    
+    "cate_url": "",
+    "web_name": "潦草网",
+    "kw": "wd",
+    "params": [
+      {
+        "key": "key",
+        "value": "value"
+      }
+    ],
+    "navHtml": {
+      "name": [
+        "动作片",
+        "科幻片",
+        "战争片",
+        "爱情片",
+        "喜剧片",
+        "剧情片",
+        "恐怖片",
+        "国产剧",
+        "港台剧",
+        "日韩剧",
+        "欧美剧",
+        "综艺片",
+        "动漫片",
+        "福利片"
+      ],
+      "cate": [
+        "11",
+        "12",
+        "13",
+        "14",
+        "15",
+        "16",
+        "17",
+        "18",
+        "19",
+        "110",
+        "111",
+        "112",
+        "113",
+        "138"
+      ],
+      "page": "1"
+    },
+    "cateHtml": {},
+    "html": {
+      "episodes": {
+        "hasUrlPrefix": false,
+        "isListItemAttr": true,
+        "isReg": false,
+        "isRegNeedDecoder": false,
+        "listCss": "ul > li",
+        "isMultiList": false,
+        "listCssMulti": "",
+        "listItemAttr": "href",
+        "listItemCss": "a",
+        "listItemIndex": 0,
+        "mainCss": "div.nrkuang_list",
+        "mainIndex": 0,
+        "regIndexList": [
+          0
+        ],
+        "regItemIndex": 0,
+        "regItemStr": "",
+        "regSplitList": [
+          ""
+        ],
+        "regStrList": [
+          ""
+        ]
+      },
+      "nav": {
+        "isKWInUrl": false,
+        "isWebPlay": false,
+        "descAttr": "",
+        "descCss": "span.pic-text.text-right",
+        "descIndex": 0,
+        "hasImgUrlPrefix": true,
+        "hasUrlPrefix": false,
+        "imgAttr": "data-original",
+        "imgCss": "a",
+        "imgIndex": 0,
+        "isDescAttr": false,
+        "isImgAttr": true,
+        "isNameAttr": true,
+        "isUrlAttr": true,
+        "mainCss": "ul.picTxt.picTxtA.clearfix",
+        "mainListIndex": 0,
+        "nameAttr": "title",
+        "nameCss": "a",
+        "nameIndex": 0,
+        "searchListCss": "li",
+        "urlAttr": "href",
+        "urlCss": "a",
+        "urlIndex": 0
+      },
+      "search": {
+        "isKWInUrl": false,
+        "isWebPlay": false,
+        "descAttr": "",
+        "descCss": "span.pic-text.text-right",
+        "descIndex": 0,
+        "hasImgUrlPrefix": true,
+        "hasUrlPrefix": false,
+        "imgAttr": "data-original",
+        "imgCss": "a",
+        "imgIndex": 0,
+        "isDescAttr": false,
+        "isImgAttr": true,
+        "isNameAttr": true,
+        "isUrlAttr": true,
+        "mainCss": "ul.stui-vodlist__media.col-pd.clearfix",
+        "mainListIndex": 0,
+        "nameAttr": "title",
+        "nameCss": "a",
+        "nameIndex": 0,
+        "searchListCss": "li",
+        "urlAttr": "href",
+        "urlCss": "a",
+        "urlIndex": 0
+      },
+      "video": {}
+    }
+  }
+},     
     {
       "name": "百度搜索(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
