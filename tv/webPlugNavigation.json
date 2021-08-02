@@ -1094,7 +1094,7 @@
         "isImgAttr": true,
         "isNameAttr": true,
         "isUrlAttr": true,
-        "mainCss": "ul#searchList",
+        "mainCss": "ul.myui-vodlist__media.clearfix",
         "mainListIndex": 0,
         "nameAttr": "title",
         "nameCss": "a",
