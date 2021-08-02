@@ -991,7 +991,7 @@
   "webOpen": false,
   "click": true,
   "webPlus": {
-    "search_url": "https://dadatu5.cc/search.php?searchword={kw}",
+    "search_url": "https://www.dadatu5.cc/search.php?searchword={kw}",
     "nav_url": "https://www.dadatu5.cc/vod/navCate-navPage.html",
     "cate_url": "",
     "web_name": "达达兔",
@@ -1099,7 +1099,7 @@
         "nameAttr": "title",
         "nameCss": "a",
         "nameIndex": 0,
-        "searchListCss": "li",
+        "searchListCss": "li.active.clearfix",
         "urlAttr": "href",
         "urlCss": "a",
         "urlIndex": 0
