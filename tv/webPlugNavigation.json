@@ -1551,7 +1551,15 @@
       "webUrl": "https://www.male11.com/",
       "webOpen": true,
       "click": true
-    },        
+    },
+      {
+      "name": "火奔奔影视(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "onenews",
+      "webUrl": "http://www.huobenben.com/",
+      "webOpen": true,
+      "click": true
+    },     
     {
       "name": "一只鱼(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
